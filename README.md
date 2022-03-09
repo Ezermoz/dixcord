@@ -3,7 +3,7 @@
 https://dixcord.tech
 
 Dixcord is free open source securised client :) You can logged you account in this client !
-
+No more discord account hacks. We have perfection, dixcord. You can turn on discord without fear!
 
 ## Features
 
