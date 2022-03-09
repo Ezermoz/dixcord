@@ -27,5 +27,4 @@ Optimized for lite computer.
 
 ## Demo
 
-Insert gif or link to demo
-
+![Picture](https://github.com/Ezermoz/dixcord/blob/main/2022-03-10%2000-46-33.gif?raw=true)
